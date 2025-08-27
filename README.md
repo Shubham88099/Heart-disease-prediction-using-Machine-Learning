@@ -51,3 +51,10 @@ Hyperparameter tuning for more robust models.
 Deploying the model using Flask / FastAPI.
 
 Building an interactive web app with Streamlit.
+
+# 7.output picture 
+<img width="1317" height="1101" alt="confusion_matrix_rf" src="https://github.com/user-attachments/assets/4852b747-5e22-450c-a781-80707eacd4a7" />
+<img width="1697" height="1101" alt="roc_curve" src="https://github.com/user-attachments/assets/8db80846-b710-417e-8113-748265869cd6" />
+
+
+
