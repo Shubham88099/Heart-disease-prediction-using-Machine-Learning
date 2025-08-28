@@ -24,6 +24,7 @@ ROC Curve
 Best performing model is saved for future predictions.
 
 Predictions are exported into a CSV file.
+ 
 # 3. The dataset used is heart.csv, which contains patient medical records with the target variable:
 
 0 → No Heart Disease
